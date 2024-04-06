@@ -2,10 +2,10 @@
 
 Introduction to Algorithms
 
-### Graphs representation
+### Graph representation
 
 <img height="200" src="_images/graps_repr.png"/>
 
 ### Travelling salesman problem in 3D
 
-<img height="200" src="_images/tsp_3d.png"/>
+<img height="250" src="_images/tsp_3d.png"/>
