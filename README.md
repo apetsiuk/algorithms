@@ -1,8 +1,8 @@
 # Algorithms
 
-Introduction to Algorithms
+Introduction to Algorithms [in progress]
 
-### Graph representation
+### Graphs
 
 <img height="200" src="_images/graps_repr.png"/>
 
